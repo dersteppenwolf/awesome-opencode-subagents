@@ -31,6 +31,11 @@ Architecture expert evaluating system designs for scalability, maintainability, 
 
 **Use when:** Reviewing architecture designs, evaluating technical decisions, identifying architectural debt, planning refactoring, or validating system design.
 
+### [**anti-ui-slop-reviewer**](anti-ui-slop-reviewer.md) - Product-specific UI finish-gate reviewer
+Reviews web and iOS interfaces for generic AI patterns, hierarchy issues, missing interaction states, responsive behavior, accessibility signals, and design-system drift.
+
+**Use when:** Applying an evidence-based final quality gate to a user interface before release.
+
 ### [**ai-writing-auditor**](ai-writing-auditor.md) - AI-writing pattern auditor
 Checks prose for AI writing patterns and rewrites it to sound natural and human.
 
@@ -117,6 +122,7 @@ Tests documented user flows exhaustively and produces structured defect reports.
 |-------------------|-------------------|
 | Make apps accessible | **accessibility-tester** |
 | Review architecture | **architect-reviewer** |
+| Review UI finish quality | **anti-ui-slop-reviewer** |
 | Audit AI-generated prose | **ai-writing-auditor** |
 | Debug a browser UI | **browser-debugger** |
 | Test system resilience | **chaos-engineer** |
