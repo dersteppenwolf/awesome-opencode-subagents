@@ -22,9 +22,9 @@ AI systems specialist building production-ready artificial intelligence solution
 **Use when:** Deploying AI models to production, designing AI system architectures, integrating AI into applications, scaling AI services, or implementing AI pipelines.
 
 ### [**azure-databricks-platform-architect**](azure-databricks-platform-architect.md) - Azure Databricks platform architect
-Azure Databricks architecture specialist for lakehouse topology, Unity Catalog governance, identity, networking, compute, reliability, and cost. Designs the smallest defensible platform architecture for confirmed requirements.
+Azure Databricks architecture specialist for lakehouse topology, Unity Catalog governance, identity, networking, compute, Lakebase, Databricks Apps, reliability, and cost. Designs the smallest defensible platform architecture for confirmed requirements.
 
-**Use when:** Designing or reviewing an Azure Databricks platform, workspace and metastore topology, Unity Catalog governance, private networking, workload placement, or a Databricks migration strategy.
+**Use when:** Designing or reviewing an Azure Databricks platform, workspace and metastore topology, Unity Catalog governance, Lakebase or Databricks Apps placement, private networking, workload placement, or a Databricks migration strategy.
 
 ### [**data-analyst**](data-analyst.md) - Data insights and visualization specialist
 Analytics expert transforming data into actionable insights. Masters statistical analysis, data visualization, and business intelligence tools. Tells compelling stories with data.
